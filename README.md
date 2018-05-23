@@ -4,7 +4,7 @@ Una calculadora de fraccionario programada en C#.Net con WPF.
 
 
 # Instalador
-Para instalar la calculadora puede descargar el [Instalador](https://github.com/WinstonR96/FraccMath/tree/master/SetupFraccMath/Release).
+Para instalar la calculadora puede descargar el [instalador](https://github.com/WinstonR96/FraccMath/tree/master/SetupFraccMath/Release).
 
 
 # Reportar Bugs
