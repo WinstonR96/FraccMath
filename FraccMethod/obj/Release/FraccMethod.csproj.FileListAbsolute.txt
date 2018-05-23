@@ -1,0 +1,9 @@
+F:\Redsis\FraccMath\FraccMethod\bin\Release\FraccMethod.dll
+F:\Redsis\FraccMath\FraccMethod\bin\Release\FraccMethod.pdb
+F:\Redsis\FraccMath\FraccMethod\bin\Release\FraccEntities.dll
+F:\Redsis\FraccMath\FraccMethod\bin\Release\FraccEntities.pdb
+F:\Redsis\FraccMath\FraccMethod\obj\Release\FraccMethod.csprojAssemblyReference.cache
+F:\Redsis\FraccMath\FraccMethod\obj\Release\FraccMethod.csproj.CoreCompileInputs.cache
+F:\Redsis\FraccMath\FraccMethod\obj\Release\FraccMethod.csproj.CopyComplete
+F:\Redsis\FraccMath\FraccMethod\obj\Release\FraccMethod.dll
+F:\Redsis\FraccMath\FraccMethod\obj\Release\FraccMethod.pdb

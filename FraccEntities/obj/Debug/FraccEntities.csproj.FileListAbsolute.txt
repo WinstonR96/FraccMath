@@ -1,0 +1,5 @@
+F:\Redsis\FraccMath\FraccEntities\bin\Debug\FraccEntities.dll
+F:\Redsis\FraccMath\FraccEntities\bin\Debug\FraccEntities.pdb
+F:\Redsis\FraccMath\FraccEntities\obj\Debug\FraccEntities.csproj.CoreCompileInputs.cache
+F:\Redsis\FraccMath\FraccEntities\obj\Debug\FraccEntities.dll
+F:\Redsis\FraccMath\FraccEntities\obj\Debug\FraccEntities.pdb
