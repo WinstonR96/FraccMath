@@ -28,6 +28,11 @@ D:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.g.resources
 D:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.Properties.Resources.resources
 D:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.csproj.GenerateResource.cache
 D:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.csproj.CoreCompileInputs.cache
+F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.csprojAssemblyReference.cache
+F:\Redsis\FraccMath\FraccMath\obj\Debug\MainWindow.g.cs
+F:\Redsis\FraccMath\FraccMath\obj\Debug\App.g.cs
+F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath_MarkupCompile.cache
+F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath_MarkupCompile.lref
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccMath.exe.config
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccMath.exe
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccMath.pdb
@@ -35,11 +40,6 @@ F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccEntities.dll
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccMethod.dll
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccEntities.pdb
 F:\Redsis\FraccMath\FraccMath\bin\Debug\FraccMethod.pdb
-F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.csprojAssemblyReference.cache
-F:\Redsis\FraccMath\FraccMath\obj\Debug\MainWindow.g.cs
-F:\Redsis\FraccMath\FraccMath\obj\Debug\App.g.cs
-F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath_MarkupCompile.cache
-F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath_MarkupCompile.lref
 F:\Redsis\FraccMath\FraccMath\obj\Debug\MainWindow.baml
 F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.g.resources
 F:\Redsis\FraccMath\FraccMath\obj\Debug\FraccMath.Properties.Resources.resources

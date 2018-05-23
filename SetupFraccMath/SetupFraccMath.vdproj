@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_4F25E46504F078FF8E0271F7B4A8D47A"
-        "OwnerKey" = "8:_5FB558FD241844ADA148024BA690BC73"
+        "MsmKey" = "8:_1B61468302D6457982BBFA4581738D9B"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5FB558FD241844ADA148024BA690BC73"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_4F25E46504F078FF8E0271F7B4A8D47A"
+        "OwnerKey" = "8:_1B61468302D6457982BBFA4581738D9B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -34,7 +34,7 @@
         "Entry"
         {
         "MsmKey" = "8:_CF783085FD2589AD0B36C3B0BF74865D"
-        "OwnerKey" = "8:_5FB558FD241844ADA148024BA690BC73"
+        "OwnerKey" = "8:_1B61468302D6457982BBFA4581738D9B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,7 +46,7 @@
         "Entry"
         {
         "MsmKey" = "8:_E4968C4FC7DE8512E6B6E32B81F53EE9"
-        "OwnerKey" = "8:_5FB558FD241844ADA148024BA690BC73"
+        "OwnerKey" = "8:_1B61468302D6457982BBFA4581738D9B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -58,7 +58,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5FB558FD241844ADA148024BA690BC73"
+        "OwnerKey" = "8:_1B61468302D6457982BBFA4581738D9B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -348,15 +348,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:FraccMath"
-        "ProductCode" = "8:{9F46EF37-BA32-4F08-A59B-D70B1AD92367}"
-        "PackageCode" = "8:{C2D67A7D-E59B-494B-91EA-CC8DD2009576}"
+        "ProductCode" = "8:{A5B36445-57BB-4568-A271-BA77793CCE58}"
+        "PackageCode" = "8:{1E54B562-F65D-419F-B8C1-74DEAD1AA8D5}"
         "UpgradeCode" = "8:{29196800-146F-4E80-A748-C792FF9003F3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.3"
+        "ProductVersion" = "8:1.0.4"
         "Manufacturer" = "8:Bucompany"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -469,7 +469,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_2643F95C910144868D04AEE91AB2DFCB"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_440F4D9769C848A1B03CFBF961B3D24A"
             {
             "Name" = "8:FraccMath"
             "Arguments" = "8:"
@@ -477,13 +477,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_5FB558FD241844ADA148024BA690BC73"
-            "Folder" = "8:_6E7AFC51ABF04F2190DBBFEA3CD165B5"
+            "Target" = "8:_1B61468302D6457982BBFA4581738D9B"
+            "Folder" = "8:_328EC37A9C934244BE49899A2A270957"
             "WorkingFolder" = "8:_CF25C8D547F2488BADDE6AC564FF6F8E"
             "Icon" = "8:_650A50480345487D99F48019BE2B5AF6"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_796666A4B10941068E763571937C0AA6"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F01875099E62414C8A9B87BF9D57B87B"
             {
             "Name" = "8:FraccMath"
             "Arguments" = "8:"
@@ -491,8 +491,8 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_5FB558FD241844ADA148024BA690BC73"
-            "Folder" = "8:_328EC37A9C934244BE49899A2A270957"
+            "Target" = "8:_1B61468302D6457982BBFA4581738D9B"
+            "Folder" = "8:_6E7AFC51ABF04F2190DBBFEA3CD165B5"
             "WorkingFolder" = "8:_CF25C8D547F2488BADDE6AC564FF6F8E"
             "Icon" = "8:_650A50480345487D99F48019BE2B5AF6"
             "Feature" = "8:"
@@ -896,7 +896,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5FB558FD241844ADA148024BA690BC73"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_1B61468302D6457982BBFA4581738D9B"
             {
             "SourcePath" = "8:..\\FraccMath\\obj\\Release\\FraccMath.exe"
             "TargetName" = "8:"

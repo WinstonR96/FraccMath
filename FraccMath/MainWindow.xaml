@@ -164,7 +164,7 @@
 
             <TextBox 
                 IsReadOnly="True" 
-                KeyDown="txtNumFracRes_KeyDown" 
+                KeyDown="validarEntradaNumero" 
                 FontSize="25" 
                 TextAlignment="Center" 
                 VerticalContentAlignment="Center" 
@@ -178,7 +178,7 @@
 
             <TextBox 
                 IsReadOnly="True" 
-                KeyDown="txtDenFracRes_KeyDown" 
+                KeyDown="validarEntradaNumero" 
                 FontSize="25" TextAlignment="Center" 
                 VerticalContentAlignment="Center" 
                 Name="txtDenFracRes" 
