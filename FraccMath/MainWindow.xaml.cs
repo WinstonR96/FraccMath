@@ -53,8 +53,8 @@ namespace FraccMath
                 den1 = int.Parse(txtDenFracUno.Text.ToString());
                 num2 = int.Parse(txtNumFracDos.Text.ToString());
                 den2 = int.Parse(txtDenFracDos.Text.ToString());
-                f1 = new Fraccion(num1, den1);
-                f2 = new Fraccion(num2, den2);
+                f1 = new Fraccion { Numerador = num1, Denominador = den1 };
+                f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                 res = m.Resta(f1, f2);
                 numres = res.Numerador;
                 denres = res.Denominador;
@@ -78,10 +78,10 @@ namespace FraccMath
                 den1 = int.Parse(txtDenFracUno.Text.ToString());
                 num2 = int.Parse(txtNumFracDos.Text.ToString());
                 den2 = int.Parse(txtDenFracDos.Text.ToString());
-                f1 = new Fraccion(num1, den1);
-                f2 = new Fraccion(num2, den2);
+                f1 = new Fraccion { Numerador = num1, Denominador = den1 };
+                f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                 homogenea = m.EsHomogenea(f1, f2);
-                MessageBox.Show(homogenea ? "Son Homogenea" : "Es Heterogenea");
+                MessageBox.Show(homogenea ? "Homogenea" : "Heterogenea");
             }
             else
             {
@@ -97,8 +97,8 @@ namespace FraccMath
                 den1 = int.Parse(txtDenFracUno.Text.ToString());
                 num2 = int.Parse(txtNumFracDos.Text.ToString());
                 den2 = int.Parse(txtDenFracDos.Text.ToString());
-                f1 = new Fraccion(num1, den1);
-                f2 = new Fraccion(num2, den2);
+                f1 = new Fraccion { Numerador = num1, Denominador = den1 };
+                f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                 res = m.Division(f1, f2);
                 numres = res.Numerador;
                 denres = res.Denominador;
@@ -120,8 +120,8 @@ namespace FraccMath
                 den1 = int.Parse(txtDenFracUno.Text.ToString());
                 num2 = int.Parse(txtNumFracDos.Text.ToString());
                 den2 = int.Parse(txtDenFracDos.Text.ToString());
-                f1 = new Fraccion(num1, den1);
-                f2 = new Fraccion(num2, den2);
+                f1 = new Fraccion { Numerador = num1, Denominador = den1 };
+                f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                 res = m.Multiplicacion(f1, f2);
                 numres = res.Numerador;
                 denres = res.Denominador;
@@ -144,7 +144,7 @@ namespace FraccMath
                     MessageBox.Show("Entro en Fraccion 1");
                     num1 = int.Parse(txtNumFracUno.Text.ToString());
                     den1 = int.Parse(txtDenFracUno.Text.ToString());
-                    f1 = new Fraccion(num1, den1);
+                    f1 = new Fraccion { Numerador = num1, Denominador = den1 };
                     MessageBox.Show(m.Valor(f1).ToString());
                 }
                 else
@@ -159,7 +159,7 @@ namespace FraccMath
                     MessageBox.Show("Entro en Fraccion 2");
                     num2 = int.Parse(txtNumFracDos.Text.ToString());
                     den2 = int.Parse(txtDenFracDos.Text.ToString());
-                    f2 = new Fraccion(num2, den2);
+                    f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                     MessageBox.Show(m.Valor(f2).ToString());
                 }
                 else
@@ -209,8 +209,8 @@ namespace FraccMath
                 den1 = int.Parse(txtDenFracUno.Text.ToString());
                 num2 = int.Parse(txtNumFracDos.Text.ToString());
                 den2 = int.Parse(txtDenFracDos.Text.ToString());
-                f1 = new Fraccion(num1, den1);
-                f2 = new Fraccion(num2, den2);
+                f1 = new Fraccion { Numerador = num1, Denominador = den1 };
+                f2 = new Fraccion { Numerador = num2, Denominador = den2 };
                 res = m.Suma(f1, f2);
                 numres = res.Numerador;
                 denres = res.Denominador;

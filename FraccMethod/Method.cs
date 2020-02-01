@@ -29,7 +29,7 @@ namespace FraccMethod
                 num = ((f.Numerador * f2.Denominador) + (f.Denominador * f2.Numerador));
                 den = (f.Denominador * f2.Denominador);
             }
-            res = new Fraccion(num, den);
+            res = new Fraccion { Denominador = den, Numerador = num };
             return res;
         }
 
@@ -46,7 +46,7 @@ namespace FraccMethod
                 den = (f.Denominador * f2.Denominador);
             }
 
-            res = new Fraccion(num, den);
+            res = new Fraccion { Denominador = den, Numerador = num };
             return res;
         }
 
@@ -54,7 +54,7 @@ namespace FraccMethod
         {
             num = (f.Numerador * f2.Numerador);
             den = (f.Denominador * f2.Denominador);
-            res = new Fraccion(num, den);
+            res = new Fraccion { Denominador = den, Numerador = num };
             return res;
         }
 
@@ -62,7 +62,7 @@ namespace FraccMethod
         {
             num = (f.Numerador * f2.Denominador);
             den = (f.Denominador * f2.Numerador);
-            res = new Fraccion(num, den);
+            res = new Fraccion { Denominador = den, Numerador = num };
             return res;
         }
 
