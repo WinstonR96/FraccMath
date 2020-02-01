@@ -34,5 +34,9 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
+# Test Results
+TestResults/
+
 # NuGet Packages Directory
+packages/
 packages/*
